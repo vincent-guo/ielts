@@ -6,8 +6,10 @@
 * Money-worshipping   拜金主义的
 >The heroine Holly was a money-worshipping girl, who should measure love by money.  
 >女主角郝利对金钱和物质十分崇拜，她几乎是用金钱来衡量爱情。* Cultural invasion    文化入侵
+
 >Cultural invasion is very common in modern time.  
->在现代文化侵略很普遍。* Cultural heritage     文化遗产
+>在现代文化侵略很普遍。* Cultural heritage     文化遗产
+
   >Some people say the change means a loss of cultural heritage.  
   >有些人认为，这一改变意味着丧失了文化传统。
 
