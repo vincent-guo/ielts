@@ -1,8 +1,8 @@
 #Words
 
 ##Tourism  旅游* Place of interest    名胜古迹/旅游景点* Local resident       当地居民
-  >New York maybe is not a place of interest for local residents, but for the people from London, it's so charming.   
-  >纽约对于纽约人来说也许不是旅游胜地，而对于伦敦人来说却不乏魅力！
+  > New York maybe is not a place of interest for local residents, but for the people from London, it's so charming.   
+  > 纽约对于纽约人来说也许不是旅游胜地，而对于伦敦人来说却不乏魅力！
 
 * Money-worshipping   拜金主义的  
   > The heroine Holly was a money-worshipping girl, who should measure love by money.  
